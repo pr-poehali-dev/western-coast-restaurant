@@ -1,0 +1,92 @@
+
+      Footer.tsx"><div className="container mx-auto px-4
+import { Button } from "@/components/ui">
+        <div className="grid grid-/button";
+import { Separator } from "@/components/ui/separatorcols-1 md:grid-cols-";
+
+const Footer = () => {
+  3 gap-10 mb-10">
+          <divreturn (
+    <footer className="bg-zinc-950 pt>
+            <h3 className="text-16 pb-8 border-t border-zinc-2xl font-semibold text-white mb-4">-800/30">
+      Западное побережье<div className="container mx-auto px-4</h3>
+            <p className="text">
+        <div className="grid grid--zinc-400 mb-6">
+              Ресторан для интcols-1 md:grid-cols-ровертов, где ком3 gap-10 mb-12">
+          <divфорт и приватность >
+            <h3 className="text
+              стоят на первом-2xl font-bol месте.
+            </p>
+            <div classNamed mb-4">Запад="flex space-x-4">ное побережье</h3>
+            
+              <a href="#<p className="text-zinc-400 mb-4">" className="text-zinc-500
+              Ресторан для т hover:text-amberех, кто ценит тишину и лич-600 transition-colors">ное пространство.
+            </p>
+                <Icon name="Instagram
+            <div className="flex space-x-4">" size={20} />
+              
+              <a href</a>
+              ="#" className="text-zinc-500<a href="#" className="text-zinc- hover:text-primary500 hover:text-amber-600 ">
+                <svg xmlnstransition-colors">
+                <Icon name="="http://www.w3.org/Facebook" size={20} />
+              2000/svg"</a>
+              <a href="#" className width="24" height="="text-zinc-500 hover:text24" viewBox="0 0 24 24"-amber-600 transition-colors"> fill="none" stroke="currentColor"
+                <Icon name="Twitter" size={20 strokeWidth="2"} />
+              </a>
+             strokeLinecap="round" strokeLinej</div>
+          </div>
+          oin="round" className="luc
+          <div>
+            <h4ide lucide-instagram"> className="text-lg<rect width="20" height="20" font-medium text-white x="2" y="2" rx=" mb-4">Час5" ry="5"/ы работы</h4>
+            ><path d="M16 11.37A4 4 <ul className="space-y-2 0 1 1 12.63 text-zinc-400">
+              <li8 4 4 0 0  className="flex justify-between">1 16 11.37z"/>
+                <span>Понедельник<line x1="17.5" x2="17.51 - Четверг</span>" y1="6
+                <span>12.5" y2="6.5"/:00 - 22></svg>
+              </a>
+              :00</span><a href="#"
+              </li>
+              <li className className="text-zinc-500 hover:text-primary">="flex justify-between">
+                <span
+                <svg xmlns=">Пятница - Субботаhttp://www.w3.org/2</span>
+                <span>12:000/svg" width="24" height="00 - 0024" viewBox="0 0 24 24" fill=":00</span>
+              </li>none" stroke="current
+              <li className="flex justify-between">
+                <spanColor" strokeWidth="2" strokeLinec>Воскресенье</span>ap="round" strokeLinejoin="round" className="lucide
+                <span>12:00 - lucide-facebook"><path d="M18 21:00</span> 2h-3
+              </li>
+            </ul>a5 5 0 0 0
+          </div>
+          
+          -5 5v3H7v4h3v8h<div>
+            <h4 className="text-lg font-4v-8h3l1-4medium text-white mbh-4V7-4">Контакты</h4a1 1 0 0 1>
+            <ul 1-1h3z"/></svg className="space-y-3>
+               text-zinc-400">
+              </a>
+              <a href="#" className="<li className="flex items-centertext-zinc-500 hover:text-primary">
+                ">
+                <Icon name="Map<svg xmlns="http://www.w3.Pin" size={16} className="mr-2 text-amberorg/2000/svg" width="24-600" />
+                <span>ул. Т" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor"ихая, д. 42 strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className, Москва</span>="lucide lucide-twitter"><path 
+              </li>
+              <li className="flex items-center">
+                <Icon named="M22 4s-.="Phone" size={16} className="mr7 2.1-2-2 text-amber-600" />
+                <span>+7 (999 3.4c1.6) 123-45-67 10-9.4</span>
+              </li>
+               17.3-18<li className="flex items-center">
+                <Icon name="Mail" size={16} 11.6 2.2 className="mr-2 text-amber-.1 4.4600" />
+                <span>info@-.6 6-2west-coast.ru</span>
+              C3 15.5</li>
+            </ul>
+          </div>
+        </div>
+        .5 9.6 3
+        <Separator className="bg-zinc-800 my-6 5c2.2" />
+        
+        <div className=" 2.6 5.6text-center text-zinc-500 text-sm">
+           4.1 9 4-.<p>© {new Date().getFull9-4.2 4Year()} Западное побережье. Все права защищены.</p>-6.6 7
+        </div>
+      </div>-3.8 1
+    </footer>
+  );
+};.1 0 3
+
+export default Footer;
